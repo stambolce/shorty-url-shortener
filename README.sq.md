@@ -2,11 +2,11 @@
 
 # Shorty
 
-**Një vend për çdo lidhje.**
-
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<img src="assets/product-hero.svg" width="100%" alt="Shorty — Link management; conceptual product illustration" />
+<img src="assets/product-hero.svg" width="100%" alt="Shorty — prezantim vizual i produktit" />
+
+**Një vend për çdo lidhje.**
 
 [![Website](https://img.shields.io/badge/shorty.mk-Official_Website-1476e8?style=for-the-badge)](https://shorty.mk/)
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://shorty.mk/)
@@ -71,7 +71,7 @@ Ilustrimi është konceptual, jo pamje e aplikacionit. Faqja zyrtare ofron ndër
 | Hollësia | Vlera |
 |---|---|
 | Domeni | [shorty.mk](https://shorty.mk/) |
-| Kategoria | Link management |
+| Kategoria | Menaxhim lidhjesh dhe kodesh QR |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
 | Kontakti i portofolit | [contact@processin.mk](mailto:contact@processin.mk) |
@@ -95,5 +95,4 @@ Burimi: [Faqja zyrtare](https://shorty.mk/).
 
 ---
 
-This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
-Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
+This platform is a digital product of <a href="https://processin.mk" target="_blank" >PROCESS IN </a>· Your Enterprise Software & AI Partner · <br />Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a>·
